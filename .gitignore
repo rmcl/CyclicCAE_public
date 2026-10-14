@@ -18,3 +18,7 @@ __pycache__*
 
 # pymol outputs
 *.pse
+
+# benchmark related
+outputs/
+pdbs
